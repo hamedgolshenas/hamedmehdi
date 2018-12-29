@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+}
+a{
+    width: 100px;
+    padding-right: 50px;
+    padding-left: 50px;
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: none;
+    color: green;
+
+}
+.menu-bar{
+    width: 100%;
+    height: 80px;
+    background-color: orange;
+}
+.icon-bars{
+    border: 1px solid green;
+    margin-left: 200px;
+    padding: 30px;
+}
+.pages-dropdown-content{
+    background-color: orange;
+    padding: 30px;
+}
